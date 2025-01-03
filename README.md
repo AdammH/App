@@ -1,4 +1,4 @@
-# MeetUp
+# TryParty
 
 App for organizating parties, events, concerts, and other things where people can meet and have some nice time spend together
 
